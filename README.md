@@ -73,3 +73,18 @@
  ![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb30.png)
  ![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb31.png)
  ![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb32.png)
+
+ ### Задание 4
+Создайте свой кастомный дашборд.
+
+#### Процесс выполнения
+1. Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
+2. В разделе Dashboards создайте новый дашборд
+3. Разместите на нём несколько графиков на ваше усмотрение.
+
+#### Требования к результату
+- [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
+
+
+ ![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb40.png)
+
