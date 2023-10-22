@@ -52,3 +52,9 @@
 
 Требования к результату
  Результат данного задания сдавайте вместе с заданием 3
+
+![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb20.png)
+![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb21.png)
+![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb22.png)
+
+ 
