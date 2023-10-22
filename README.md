@@ -57,4 +57,19 @@
 ![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb21.png)
 ![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb22.png)
 
- 
+
+### Задание 3
+Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
+
+#### Процесс выполнения
+1. Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
+2. Зайдите в настройки каждого хоста и в разделе Templates прикрепите к этому хосту ваш шаблон
+3. Так же к каждому хосту привяжите шаблон Linux by Zabbix Agent
+4. Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона
+
+#### Требования к результату
+- [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
+
+ ![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb30.png)
+ ![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb31.png)
+ ![1](https://github.com/BudyGun/8-04-Zabbix/blob/main/img/zb32.png)
